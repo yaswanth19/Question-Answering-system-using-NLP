@@ -25,7 +25,7 @@ BERT outputs logits for start and end positions of the answer which are not inte
 
 We evaluated different models: RoBERTa for QA, BERT for QA, and Distilled-BERT. The results are shown in the below table.
 
-| Model          | Loss  |
+| Model          | CE Loss  |
 |----------------|-------|
 | RoBERTa for QA | 4.02  |
 | BERT for QA    | 1.57  |
